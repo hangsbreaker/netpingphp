@@ -1,0 +1,31 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	text-align: center;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.42857;
+	color: #333;
+}
+.comp{
+	display:inline-block;
+	text-align:center;
+	background:#3498db;
+	color:#fff;
+	margin:3px;
+	width:125px;
+}
+.host, .state, .port{
+	padding:5px;
+}
+.off{
+	background:#e74c3c;
+}
+.on{
+	background:#1abc9c;
+}
+.port{
+	background:#f1c40f;
+}
